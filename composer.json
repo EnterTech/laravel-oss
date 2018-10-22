@@ -1,5 +1,5 @@
 {
-    "name": "hyancat/laravel-oss",
+    "name": "entertech/laravel-oss",
     "description": "Aliyun OSS adapter for Laravel.",
     "type": "library",
     "license": "MIT",
